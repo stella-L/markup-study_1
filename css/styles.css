@@ -1,0 +1,23 @@
+div {
+  font-family: helvetica;
+  font-size: 16px;
+  margin-top: 60px;
+  margin: 0 auto;
+  width: auto;
+  height: auto;
+  display: inline;
+
+}
+
+#title {
+  width: 165px;
+  height: 58px;
+  text-align: center;
+  display: block;
+
+}
+
+/*해당 아래의 코드로는 왜 가운데 정렬이 안되는지 궁금합니다 */
+/* #tilte div{
+  margin : 0 auto;
+} */
